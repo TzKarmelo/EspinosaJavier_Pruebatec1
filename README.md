@@ -18,9 +18,3 @@ El aplicativo se compone de un menú principal donde podremos elegir entre 5 opc
     * Buscar empleados
 
 Todo está manjejado por una controladora de persistencia, la que nos permite interactuar con la base de datos.
-
-
-## Appendix
-
-Any additional information goes here
-
